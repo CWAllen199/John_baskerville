@@ -1,10 +1,10 @@
 IXD101 Interaction Desing Fundamentals 
 ======================================
 
-John_baskerville
+John_Baskerville
 -----------------
 
 - [Baskerville 1](https://cwallen199.github.io/John_baskerville/john-baskerville1.html)
 
-- [History of Type](The History of Type.html)
+- [History of Type](https://cwallen199.github.io/John_baskerville/The_History_of_Type.html)
 --------------------
