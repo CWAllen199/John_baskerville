@@ -4,7 +4,7 @@ IXD101 Interaction Desing Fundamentals
 John_Baskerville
 -----------------
 
-- [Baskerville 2](https://cwallen199.github.io/John_baskerville/john-baskerville1.html)
+- [Baskerville 1](https://cwallen199.github.io/John_baskerville/john-baskerville1.html)
 
 - [Baskerville 2](https://cwallen199.github.io/John_baskerville/john-baskerville2.html)
 
