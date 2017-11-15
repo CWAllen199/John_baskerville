@@ -12,3 +12,6 @@ John_Baskerville
 
 - [History of Type](https://cwallen199.github.io/John_baskerville/The_History_of_Type.html)
 --------------------
+
+- [History List] (https://cwallen199.github.io/John_baskerville/history_list.html)
+------------------------------------------------------------------
