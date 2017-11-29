@@ -28,7 +28,7 @@ header h2 {
 
 h1,h2,h3 {
     font-weight: normal;
-    color: #c06;
+    color: #B21109;
     text-align: center;  
 }
 
@@ -50,7 +50,7 @@ h2 {font-size: 2.25em;
 /*------Links------*/
 
 a {
-    color: #c06;
+    color: #B21109;
     text-decoration: none;
     }
 
@@ -89,7 +89,7 @@ nav ul li {
 
 nav a:hover {
     border-bottom: none;
-    color: #c06;
+    color: #B21109;
 }
 
 /*------ Blockquote------*/
