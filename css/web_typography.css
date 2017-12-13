@@ -1,0 +1,84 @@
+* {
+    padding:0;
+    margin:0;
+    font-size:100%;
+    line-height: 1em;
+}
+body {
+    width: 75%;
+    max-width: 600px; 
+    font-family: Georgia,'Times New Roman',serif;
+    margin: auto;
+    background:#f0f0f0;
+    text-align:left 
+    color: #333;
+    line-height:2em;
+    
+}
+
+/*------Typography------*/
+
+p,li,blockquote {
+    margin-bottom: 1em;
+    line-height: 1.5;
+}
+
+hr/ {margin:2em 0;
+}
+
+
+h1 {
+    font-size: 370%;
+    line-height: 1em;
+}
+
+h2 {
+    font-size: 150%;
+    font-style: italic;
+line-height:3em;
+}
+
+h3 {font-size:100%;
+line-height: 2em;
+text-transform: uppercase;}
+
+p {font-size:75%;
+font-style: normal;
+}
+
+header {font-size: 120%;
+    line-height: 3em;
+}
+
+/*.one p:first-letter {font-size: 150%}*/
+
+/*p:nth-child(1):first-letter {
+font-size: 3em;}*/
+
+blockquote {
+    padding:1em 0em ;
+    font-size: 100%;
+    font-style: italic;
+    line-height: 1.2em;
+    color: #777;
+    
+}
+
+cite {
+    font-size: .7em;
+}
+
+/*------ section 1------*/
+
+.one {
+    font-family:"Libre Baskerville",serif;
+}   
+
+
+/*------section 2------*/
+.two {font-family: "Open Sans", serif; 
+}
+
+/*------section 3------*/
+.three {font-family:"arvo", serif;}
+

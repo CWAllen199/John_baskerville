@@ -1,0 +1,163 @@
+/*------CSS RESET------*/
+
+* {
+    padding:0;
+    margin:0;
+    font-size:100%;
+    line-height: 1em;
+}
+
+body {
+    width: 75%;
+    max-width: 600px; 
+    font-family: 'Josefin Slab', serif;
+    margin: auto;
+    background:#f0f0f0;
+    color: #333;
+    line-height: 1.8em;
+}
+
+header {margin: 6em 3em 3em 0}
+
+header h2 {
+    font-style: italic;
+    font-size: 1.8em;
+    color: #333;}
+header h3 {
+    font-style: normal;
+    font-size: 1.8em;
+    color: #B21109;}
+
+/*------Tyopgraphy------*/
+
+h1,h2,h3 {
+    font-weight: normal;
+    color: #B21109;
+    text-align: center;  
+}
+
+p,li,blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h2 {font-size: 2.25em;
+    margin-bottom: 1em;
+}
+h3 {font-size: 1.8em;
+    margin-top: 1em;
+    margin-bottom: 1em;}
+/*------Links------*/
+
+a {
+    color: #B21109;
+    text-decoration: none;
+    }
+
+nav a:visited {
+    color: #fff;
+}
+
+a:hover
+    { 
+color: #006341;
+border-bottom: 1px dotted;
+    }
+
+/*------Navigation------*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin:0;
+    width: 100%;
+    background-color:#333;
+    padding: 1em 0;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #B21109;
+}
+
+/*------ Blockquote------*/
+
+blockquote {
+    padding:1em 0em 1;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: #777;
+}
+
+blockquote cite {
+    font-size: 0.75em
+}
+
+/*------images------*/
+
+img {
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;
+    
+}
+
+/*------Footer------*/
+
+footer {
+    text-align: center;
+    font-size: 0.75em;
+    line-height:1.5em;
+    padding-bottom: 2em;
+}
+
+footer+small {
+    text-align: left;
+}
+
+footer hr {
+    margin: 3em 0;
+}
+
+
+/*------Tables------*/
+
+caption {
+    text-align: left;
+    padding-bottom: 2em;
+}
+th, td {
+   
+    width: 100%;
+    text-align: left;
+     height: 10px;
+    vertical-align: bottom;
+    padding: 1em;
+    border-bottom: .1em solid #fff;
+    
+   }
+th {
+    background-color: #333;
+    color: #fff;
+}
+</div>
