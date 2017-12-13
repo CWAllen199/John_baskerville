@@ -10,8 +10,7 @@ body {
     font-family: Georgia,'Times New Roman',serif;
     margin: auto;
     background:#f0f0f0;
-    text-align:left 
-    color: #333;
+    text-align:left; 
     line-height:2em;
     
 }
@@ -23,9 +22,9 @@ p,li,blockquote {
     line-height: 1.5;
 }
 
-hr/ {margin:2em 0;
+hr{margin:2em 0em;
+color:#c06;
 }
-
 
 h1 {
     font-size: 370%;
