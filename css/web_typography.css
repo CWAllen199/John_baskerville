@@ -45,11 +45,13 @@ p {font-size:75%;
 font-style: normal;
 }
 
+p2 {text-transform: uppercase;}
+
 header {font-size: 120%;
     line-height: 3em;
 }
 
-/*.one p:first-letter {font-size: 150%}*/
+.one p:first-letter {font-size: 150%}
 
 /*p:nth-child(1):first-letter {
 font-size: 3em;}*/
@@ -66,6 +68,14 @@ blockquote {
 cite {
     font-size: .7em;
 }
+
+  hr {
+           margin: 4em 0;
+           height: 1px;    
+           background-color:#FF0066;
+           border: 0 none;
+        }
+     
 
 /*------ section 1------*/
 
