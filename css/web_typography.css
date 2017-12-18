@@ -47,14 +47,9 @@ font-style: normal;
 
 p2 {text-transform: uppercase;}
 
-header {font-size: 120%;
-    line-height: 3em;
+.intro {font-size: 110%;
+    line-height: 1.6em;
 }
-
-.one p:first-letter {font-size: 150%}
-
-/*p:nth-child(1):first-letter {
-font-size: 3em;}*/
 
 blockquote {
     padding:1em 0em ;
@@ -75,7 +70,15 @@ cite {
            background-color:#FF0066;
            border: 0 none;
         }
-     
+
+
+/*------dropcap------*/
+.dropcap {float: left;
+font-size: 4.53em;
+line-height: 1em;
+    margin: 0;
+}
+
 
 /*------ section 1------*/
 
@@ -88,5 +91,12 @@ cite {
 .two {font-family: "Open Sans", serif; 
 }
 
+.introcaps {text-transform: uppercase;}
+
+.two p+p{margin-bottom: -0em;}
+
+.two p+p+p {text-indent: 1.5em;}
+
+.two blockquote {margin-top: 1em;}
 /*------section 3------*/
 .three {font-family:"arvo", serif;}
