@@ -10,7 +10,7 @@
 body {
     width: 85%;
     max-width: 1000px; 
-    font-family:sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: auto;
     background:#ffffff;
     color: #333;
@@ -26,12 +26,14 @@ header h2 {
 
 h1,h2,h3 {
     font-weight: normal;
-    text-align: center;  
+    text-align: center;
+    font-family: 'Russo One', sans-serif
 }
 
 p,li,blockquote {
     margin-bottom: 1.5em;
     line-height: 1.5;
+    font-family: 'Raleway', sans-serif;
 }
 
 h1,h3 {color: #114f9c;}
