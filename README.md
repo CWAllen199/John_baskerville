@@ -29,7 +29,7 @@ Web Typography
 ---------------
 
 - [Baskerville Three Versions (CSS)](https://cwallen199.github.io/John_baskerville/web_typography.html)
-------------------------------------------------------------------
+
 
 IXD102 Introduction to Communication Design
 ===========================================
