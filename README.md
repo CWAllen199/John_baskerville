@@ -1,4 +1,4 @@
-IXD101 Interaction Desing Fundamentals 
+IXD101 Interaction Design Fundamentals 
 ======================================
 
 John_Baskerville
@@ -30,3 +30,10 @@ Web Typography
 
 - [Baskerville Three Versions (CSS)](https://cwallen199.github.io/John_baskerville/web_typography.html)
 ------------------------------------------------------------------
+
+IXD102 Introduction to Communication Design
+===========================================
+
+Neville Brody 
+-------------
+- [Baskerville Three Versions (CSS)](https://cwallen199.github.io/Neville_brody/neville_brody.html)
