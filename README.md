@@ -36,5 +36,6 @@ IXD102 Introduction to Communication Design
 
 Neville Brody 
 -------------
+- [Neville Brody (Essay only HTML)](https://cwallen199.github.io/John_baskerville/Neville_brody/neville_brody_only_html.html)
 - [Neville Brody (Essay)](https://cwallen199.github.io/John_baskerville/Neville_brody/neville_brody.html)
 -----------------------------------------------------------
