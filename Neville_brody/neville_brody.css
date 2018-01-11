@@ -135,7 +135,8 @@ footer+small {
 }
 
 footer hr {
-    margin: 1.5em 0;
+    margin: 5em 4em§;
+   width: 100%;
 }
 
 /*------Tables------*/
@@ -156,3 +157,15 @@ th {
     background-color: #ffffff;
     color: #114f9c;
 }
+
+/*------ Social Media-------*/
+
+.social_media img{
+float: left;
+margin-right: 15px;
+margin-top: 1em;
+margin-bottom: 2em;
+width: 14.8%;
+padding: 0em 10em;}
+
+
